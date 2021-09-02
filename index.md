@@ -1,91 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ifan Johnston's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ifan Johnston
+Machine Learning Engineer, Mathematician, Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ifan.johnston@gmail.com">ifan.johnston@gmail.com</a>
+| <a href="https://idjotherwise.github.io/nlp-otherwise/">My Blog</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Freelance Machine Learning Engineer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+*Natural Language Processing* - Sentiment Analysis, Document Summarisation
+*Mathematics* - Fractional Calculus, Probability/Stochastic Analysis, Statistics
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Using machine learning in efficient ways to solve important problems.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2015-2019`
+__MASDOC, University of Warwick.__
+- PhD and MSc in Mathematics and Statistics 
+- Thesis title: _Generalized fractional evolution equations_
 
 
+`2011-2014`
+__Swansea University__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+- MRes (Master of Research) in Stochastic Processes
+- Thesis title: _Feller processes on the Torus via pseudo-differential operators_
+- BSc in Pure Mathematics (1st Class)
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://arxiv.org/search/?query=Johnston%2C+Ifan&searchtype=author&abstracts=show&order=-announced_date_first&size=50) -->
 
-### Journals
+### Articles
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2019` [Green’s Function Estimates for Time-Fractional Evolution Equations](https://www.mdpi.com/2504-3110/3/2/36)
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jan. 2019 ‐ present`
+__MACHINE LEARNING ENGINEER (FREELANCE)__
 
-- Warden
-- Minted coins
+- Leading a series of machine learning projects to supplement intelligence from survey data, mainly revolving around Natural Language Processing projects.
+- Trained a sentiment analysis model to classify free-text responses as positive, negative or neutral responses. Fine-tuned a large language model (BERT) on our own labeled data to obtain a sentiment analysis model which works for English, French and German text. Deployed on Heroku as an API endpoint with FastAPI after converting the model to an optimised ONNX file format.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__DATA SCIENTIST__
 
+- In charge of writing statistical reports for clients summarising survey results with statistical tests. Reports written using Knitr (an R package) with our own custom R package to connect to our database of survey responses.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021 -->
 
 
