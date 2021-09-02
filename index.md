@@ -2,12 +2,15 @@
 layout: cv
 title: Ifan Johnston's CV
 ---
-# Ifan Johnston
+# Dr Ifan Johnston
 Machine Learning Engineer, Mathematician, Data Scientist
 
 <div id="webaddress">
-<a href="ifan.johnston@gmail.com">ifan.johnston@gmail.com</a>
-| <a href="https://idjotherwise.github.io/nlp-otherwise/">My Blog</a>
+<a href="mailto:ifan.johnston@gmail.com">ifan.johnston@gmail.com</a>
+| <a href="https://idjotherwise.github.io/nlp-otherwise/">Blog</a>
+| <a href="https://github.com/idjotherwise">Github</a>
+| <a href="https://twitter.com/JohnstonIfan">Twitter</a>
+| <a href="https://www.linkedin.com/in/idjohnston/">LinkedIn</a>
 </div>
 
 
@@ -17,50 +20,61 @@ Freelance Machine Learning Engineer
 
 ### Specialized in
 
-*Natural Language Processing* - Sentiment Analysis, Document Summarisation
-*Mathematics* - Fractional Calculus, Probability/Stochastic Analysis, Statistics
+*Natural Language Processing*
+- Sentiment Analysis 
+- Document Summarization
+- Language Models
+
+*Mathematics* 
+- Fractional Calculus
+- Probability, Stochastic Analysis
+- Statistics
+
+*Web Development*
+- FastAPI
 
 
-### Research interests
+## Professional Experience
 
-Using machine learning in efficient ways to solve important problems.
+`Jan. 2019 ‐ present`
+__Machine Learning Engineer (Freelance)__, [Vypr](https://vyprclients.com/)
 
+Leading a series of machine learning projects to supplement intelligence from survey data, mainly revolving around Natural Language Processing projects  
+Developed a sentiment analysis model all the way from ideation to deployment in 3 languages (English, German and French)
+
+__Data Scientist (Freelance)__, [Vypr](https://vyprclients.com/)
+
+In charge of writing statistical reports for clients summarising survey results with statistical tests. Reports written using Knitr (an R package) with our own custom R package to connect to our database of survey responses.
 
 ## Education
 
-`2015-2019`
-__MASDOC, University of Warwick.__
-- PhD and MSc in Mathematics and Statistics 
-- Thesis title: _Generalized fractional evolution equations_
+`2016-2019`
+__PhD + MSc__, University of Warwick
 
+Mathematics and Statistics at the [MASDOC](https://warwick.ac.uk/fac/sci/masdoc/) center  
+Research areas: Fractional Calculus, Stochastic Analysis  
+Thesis title: _Generalized fractional evolution equations_
 
 `2011-2014`
-__Swansea University__
+__MRes + BSc__, Swansea University
 
-- MRes (Master of Research) in Stochastic Processes
-- Thesis title: _Feller processes on the Torus via pseudo-differential operators_
-- BSc in Pure Mathematics (1st Class)
+Stochastic Processes in the Mathematics Department  
+Thesis: _Feller processes on the Torus via pseudo-differential operators_
 
+### Tech Stack
+__Python (ML)__ - PyTorch, fast.ai, spaCy, scikit-learn, transformers  
+__Python (general)__ - fastAPI, pandas, jupyter, SQLAlchemy / sqlmodel, jinja2, pytest  
+__R__ - ggplot2, knitr, shiny  
+__Docker__ - DigitalOcean, Heroku, github actions, LaTeX, JavaScript (React), 
 
 ## Publications
 
-<!-- A list is also available [online](https://arxiv.org/search/?query=Johnston%2C+Ifan&searchtype=author&abstracts=show&order=-announced_date_first&size=50) -->
+Full list of articles available [on arXiv](https://arxiv.org/search/?query=Johnston%2C+Ifan&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
 ### Articles
 
 `2019` [Green’s Function Estimates for Time-Fractional Evolution Equations](https://www.mdpi.com/2504-3110/3/2/36)
 
-## Occupation
-
-`Jan. 2019 ‐ present`
-__MACHINE LEARNING ENGINEER (FREELANCE)__
-
-- Leading a series of machine learning projects to supplement intelligence from survey data, mainly revolving around Natural Language Processing projects.
-- Trained a sentiment analysis model to classify free-text responses as positive, negative or neutral responses. Fine-tuned a large language model (BERT) on our own labeled data to obtain a sentiment analysis model which works for English, French and German text. Deployed on Heroku as an API endpoint with FastAPI after converting the model to an optimised ONNX file format.
-
-__DATA SCIENTIST__
-
-- In charge of writing statistical reports for clients summarising survey results with statistical tests. Reports written using Knitr (an R package) with our own custom R package to connect to our database of survey responses.
 
 
 <!-- ### Footer
