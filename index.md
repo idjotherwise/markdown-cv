@@ -32,6 +32,7 @@ Freelance Machine Learning Engineer
 
 *Web Development*
 - FastAPI
+- React
 
 
 ## Professional Experience
