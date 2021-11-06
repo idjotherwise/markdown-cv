@@ -31,7 +31,8 @@ Freelance Machine Learning Engineer
 - Statistics
 
 *Web Development*
-- FastAPI, React (Next.js)
+- FastAPI
+- React (Next.js)
 
 
 ## Professional Experience
