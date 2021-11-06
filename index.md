@@ -31,10 +31,12 @@ Freelance Machine Learning Engineer
 - Statistics
 
 *Web Development*
-- FastAPI
+- FastAPI, React (Next.js)
 
 
 ## Professional Experience
+`Oct. 2021 - present`
+__Bayesian Statistics Researcher, Julia software developer__,  [Plating Space](https://planting.space)
 
 `Jan. 2019 ‐ present`
 __Machine Learning Engineer (Freelance)__, [Vypr](https://vyprclients.com/)
@@ -79,6 +81,6 @@ Full list of articles available [on arXiv](https://arxiv.org/search/?query=Johns
 
 <!-- ### Footer
 
-Last updated: September 2021 -->
+Last updated: November 2021 -->
 
 
