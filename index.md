@@ -39,7 +39,7 @@ Freelance Machine Learning Engineer
 `Oct. 2021 - present`
 __Bayesian Statistics Researcher, Julia software developer__,  [Planting Space](https://planting.space)
 
-`Jan. 2019 ‐ present`
+`Jan. 2019 ‐ Nov. 2021`
 __Machine Learning Engineer (Freelance)__, [Vypr](https://vyprclients.com/)
 
 Leading a series of machine learning projects to supplement intelligence from survey data, mainly revolving around Natural Language Processing projects  
@@ -67,6 +67,8 @@ Thesis: _Feller processes on the Torus via pseudo-differential operators_
 ### Tech Stack
 __Python (ML)__ - PyTorch, fast.ai, spaCy, scikit-learn, transformers  
 __Python (general)__ - fastAPI, pandas, jupyter, SQLAlchemy / sqlmodel, jinja2, pytest  
+__Julia__  
+__Rust__  
 __R__ - ggplot2, knitr, shiny  
 __Docker__ - DigitalOcean, Heroku, github actions, LaTeX, JavaScript (React), 
 
@@ -76,7 +78,8 @@ Full list of articles available [on arXiv](https://arxiv.org/search/?query=Johns
 
 ### Articles
 
-`2019` [Green’s Function Estimates for Time-Fractional Evolution Equations](https://www.mdpi.com/2504-3110/3/2/36)
+`2020` [Space-time coupled evolution equations and their stochastic solutions](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-25/issue-none/Space-time-coupled-evolution-equations-and-their-stochastic-solutions/10.1214/20-EJP544.full) (Joint work with Lorenzo Toniazzi and John Herman)
+`2019` [Green’s Function Estimates for Time-Fractional Evolution Equations](https://www.mdpi.com/2504-3110/3/2/36) (Joint work with Vassili Kolokoltsov)
 
 
 
