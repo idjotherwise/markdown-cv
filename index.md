@@ -37,7 +37,7 @@ Freelance Machine Learning Engineer
 
 ## Professional Experience
 `Oct. 2021 - present`
-__Bayesian Statistics Researcher, Julia software developer__,  [Plating Space](https://planting.space)
+__Bayesian Statistics Researcher, Julia software developer__,  [Planting Space](https://planting.space)
 
 `Jan. 2019 ‐ present`
 __Machine Learning Engineer (Freelance)__, [Vypr](https://vyprclients.com/)
