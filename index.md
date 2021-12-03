@@ -78,13 +78,13 @@ Full list of articles available [on arXiv](https://arxiv.org/search/?query=Johns
 
 ### Articles
 
-`2020` [Space-time coupled evolution equations and their stochastic solutions](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-25/issue-none/Space-time-coupled-evolution-equations-and-their-stochastic-solutions/10.1214/20-EJP544.full) (Joint work with Lorenzo Toniazzi and John Herman)
+`2020` [Space-time coupled evolution equations and their stochastic solutions](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-25/issue-none/Space-time-coupled-evolution-equations-and-their-stochastic-solutions/10.1214/20-EJP544.full) (Joint work with Lorenzo Toniazzi and John Herman)  
 `2019` [Green’s Function Estimates for Time-Fractional Evolution Equations](https://www.mdpi.com/2504-3110/3/2/36) (Joint work with Vassili Kolokoltsov)
 
 
 
 <!-- ### Footer
 
-Last updated: November 2021 -->
+Last updated: December 2021 -->
 
 
